@@ -11,6 +11,7 @@ export const Container = styled.div`
   justify-content: space-around;
   padding: 15px 0px;
   gap: 10px;
+  font-weight: bold;
 
   @media (max-width: 750px) {
     display: grid;
